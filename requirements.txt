@@ -1,0 +1,9 @@
+streamlit>=1.30
+openai>=1.0.0
+pandas
+python-docx
+pdfplumber
+openpyxl
+google-search-results
+
+
